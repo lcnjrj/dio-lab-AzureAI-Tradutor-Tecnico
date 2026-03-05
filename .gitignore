@@ -1,0 +1,6 @@
+.env
+tradutor-01.py
+tradutor-02.py
+__pycache__/
+venv/
+*.pdf
